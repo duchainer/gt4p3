@@ -4,13 +4,13 @@
 
 ![Writing queries in Inspector](doc/gt-inspector-p3-query.png "Writing queries in Inspector")
 
-## How to load the code
+## How to load the code from this fork
 
 Execute the following code in a [Glamorous Toolkit image](https://gtoolkit.com):
 
 ```
 Metacello new
    baseline: 'GToolkit4P3';
-   repository: 'github://feenkcom/gt4p3';
+   repository: 'github://duchainer/gt4p3';
    load.
 ```
